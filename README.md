@@ -2,13 +2,6 @@
 
 Course materials for the “Multimodal Models” course at HSE Faculty of Computer Science: lectures, notebooks, and homework assignments.
 
-## Course authors and lecturers
-
-Boris Zhestkov
-
-Albina Burlova
-
-
 ## Syllabus
 
 **week01 · Multimodality Basics**  
@@ -51,3 +44,10 @@ All deadlines are MSK 23:59.
 ## Grading
 
 **Final grade:** `0.3 * HW1 + 0.3 * HW2 + 0.4 * HW3`
+
+
+## Course authors and lecturers
+
+Boris Zhestkov
+
+Albina Burlova
