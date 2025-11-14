@@ -37,7 +37,7 @@ All deadlines are MSK 23:59.
 
 | HW  | Task              |         Release |           Soft |             Hard |
 | --- |-------------------|----------------:|---------------:|-----------------:|
-| HW1 | CLAP→CLIP adapter |  Fri 14 Nov | Wed 26 Nov |   Sun 30 Nov |
+| HW1 | CLAP→CLIP adapter |  Sat 15 Nov | Thu 26 Nov |   Sun 30 Nov |
 | HW2 | MLLM captioning   |  Fri 21 Nov | Tue 02 Dec |   Mon 08 Dec |
 | HW3 | VQA with RAG      |  Tue 02 Dec | Tue 16 Dec |   Fri 19 Dec |
 
