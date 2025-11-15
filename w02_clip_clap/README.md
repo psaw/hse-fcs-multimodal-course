@@ -1,10 +1,10 @@
 ## Week 02 — CLIP/CLAP
 
-### Lecture 2: CLIP
+### Lecture 2: Сontrastive learning, CLIP/CLAP
 
   Lecture briefly introduces contrastive learning as a way to learn representations in a shared embedding space, then uses CLIP as the main case study: image–text architecture, InfoNCE-style training on web-scale image-caption pairs, and zero-shot transfer to downstream tasks. It also touches on modern CLIP-style models and CLAP audio-text pretraining as extensions of the same contrastive recipe.
 
-### Seminar 2: CLIP Hands-on Notebook
+### Seminar 2: CLIP Notebook
   
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/AlbinaBurlova/hse-fcs-multimodal-course/blob/main/w02_clip_clap/sem2_CLIP.ipynb
