@@ -1,0 +1,32 @@
+[project]
+name = "hse-fcs-multimodal-course"
+version = "0.1.0"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "torch",
+    "torchvision",
+    "transformers",
+    "ftfy",
+    "regex",
+    "Pillow",
+    "scikit-image",
+    "matplotlib",
+    "numpy",
+    "tqdm",
+    "requests",
+    "gdown",
+    "ipython",
+    "pandas",
+    "jupyter",
+    "ipykernel",
+    "jupyterlab",
+    "notebook",
+    "seaborn",
+    "kaggle>=1.7.4.5",
+    "clip",
+    "torchaudio>=2.9.1",
+    "soundfile",
+]
+
+[tool.uv.sources]
+clip = { git = "https://github.com/openai/CLIP.git" }
