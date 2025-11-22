@@ -26,6 +26,8 @@ dependencies = [
     "clip",
     "torchaudio>=2.9.1",
     "soundfile",
+    "scikit-learn>=1.7.2",
+    "rich>=14.2.0",
 ]
 
 [tool.uv.sources]
