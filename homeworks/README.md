@@ -1,7 +1,7 @@
 ## Homeworks
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/AlbinaBurlova/hse-fcs-multimodal-course/tree/main/homeworks
+https://colab.research.google.com/github/AlbinaBurlova/hse-fcs-multimodal-course/
 )
 
 - HW1: Audio-Text CLAP on AudioCaps
