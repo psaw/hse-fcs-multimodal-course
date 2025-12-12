@@ -28,6 +28,8 @@ dependencies = [
     "soundfile",
     "scikit-learn>=1.7.2",
     "rich>=14.2.0",
+    "bert-score>=0.3.13",
+    "datasets>=4.4.1",
 ]
 
 [tool.uv.sources]
