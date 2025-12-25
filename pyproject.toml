@@ -31,7 +31,8 @@ dependencies = [
     "rich>=14.2.0",
     "bert-score>=0.3.13",
     "datasets",
-    "boto3",
+    "pytorch-lightning>=2.6.0",
+    "tensorboard>=2.20.0",
 ]
 
 [tool.uv.sources]
