@@ -1,3 +1,4 @@
-audiocaps/
-audiocaps.zip
-checkpoints/
+audiocaps*
+checkpoints*
+data/
+logs/
