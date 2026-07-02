@@ -1,0 +1,8 @@
+[core]
+    analytics = false
+    remote = hse-fcs-mm
+    autostage = true
+['remote "hse-fcs-mm"']
+    url = s3://hse-ai24-mm-hw3-data/dvc
+    region = ru-central1
+

@@ -1,4 +1,4 @@
 audiocaps*
 checkpoints*
-data/
-logs/
+/logs
+/data
